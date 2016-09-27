@@ -40,11 +40,11 @@ Automatic updates should work like a charm; as always though, ensure you backup 
 
 = Where can I report bugs to the project? =
 
-Bugs can be reported on [GitHub repository](https://github.com/hoshomoh/WooCommerce-All-Country-States/issues).
+Bugs can be reported on [GitHub repository](https://github.com/hoshomoh/KOS-Shipping-Method-for-Woocommerce/issues).
 
 =All Countries Counties For WooCommerce is awesome! Can I contribute? =
 
-Yes you can! Join in on our [GitHub repository](https://github.com/hoshomoh/WooCommerce-All-Country-States) :)
+Yes you can! Join in on our [GitHub repository](https://github.com/hoshomoh/KOS-Shipping-Method-for-Woocommerce) :)
 
 == Screenshots ==
 
