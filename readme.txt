@@ -50,8 +50,5 @@ Yes you can! Join in on our [GitHub repository](https://github.com/hoshomoh/KOS-
 
 == Changelog ==
 
-= 1.0.0 - 11/06/2016 =
-* Feature - Added states for Nigeria and United Kingdom
-
 == Upgrade Notice ==
 This is the initial release of the plugin. Install and enjoy.
