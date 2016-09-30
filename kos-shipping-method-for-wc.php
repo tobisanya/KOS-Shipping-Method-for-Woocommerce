@@ -4,7 +4,7 @@ Plugin Name: KOS Shipping Method for Woocommerce
 Plugin URI: https://github.com/hoshomoh/KOS-Shipping-Method-for-Woocommerce
 Description: A Wordpress WooCommerce Plugin that add Kos shipping method to woocommerce and also calculates shipping price on checkout.
 Version: 1.0.0
-Author: Oforomeh Oshomo
+Author: Oforomeh Oshomo 
 Author URI: http://hoshomoh.github.io/
 */
 /**
@@ -153,6 +153,7 @@ if ( ! class_exists( 'WC_Kos_Shipping_Method' ) ) :
                 $weight = 0;
                 $cost = 0;
                 $country = $package["destination"]["country"];
+                $local_government = $package["destination"]["local_government"];
 
                 foreach ( $package['contents'] as $key => $value ) {
                     $_product = $value['data'];
